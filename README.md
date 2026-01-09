@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I like to make fullstack websites with modern technologies :)
+I like to make things happen with modern technologies :)
 
 <!--
 **tludlow/tludlow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
